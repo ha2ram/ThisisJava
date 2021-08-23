@@ -23,6 +23,5 @@ public class OperationsPromotionExample {
 		//int intValue6 = 10 / 4.0;		//컴파일 에러
 		double doubleValue = intValue5 / 4.0;
 		System.out.println(doubleValue);
-		
 	}
 }
