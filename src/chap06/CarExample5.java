@@ -1,8 +1,8 @@
 package chap06;
 
-public class CarExample {
+public class CarExample5 {
 	public static void main(String[] args) {
-		Car myCar = new Car();
+		Car5 myCar = new Car5();
 
 		myCar.setGas(5); // Car의 setGas() 메소드 호출
 

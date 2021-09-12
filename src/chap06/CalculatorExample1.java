@@ -1,8 +1,8 @@
 package chap06;
 
-public class CalculatorExample {
+public class CalculatorExample1 {
 	public static void main(String[] args) {
-		Calculator myCalc = new Calculator();
+		Calculator1 myCalc = new Calculator1();
 		myCalc.powerOn();
 		
 		int result1 = myCalc.plus(5, 6);

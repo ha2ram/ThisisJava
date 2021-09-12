@@ -1,6 +1,6 @@
 package chap06;
 
-public class Car {
+public class Car5 {
 	// 필드
 	int gas;
 
